@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=iMac DSP Control
+Comment=Control the iMac16,2 four-speaker DSP
+Exec=imac-dsp-control
+Icon=audio-speakers-symbolic
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Settings;
+Keywords=audio;dsp;equalizer;speakers;imac;
+StartupNotify=true
