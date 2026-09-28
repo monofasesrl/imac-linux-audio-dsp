@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=iMac DSP Control
-Comment=Control the iMac16,2 four-speaker DSP
+Comment=Control the iMac speaker DSP
 Exec=imac-dsp-control
 Icon=audio-speakers-symbolic
 Terminal=false
